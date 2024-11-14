@@ -1,1 +1,1 @@
-Patika+ first exercise on table structures
+- Patika+ first exercise on table structures
