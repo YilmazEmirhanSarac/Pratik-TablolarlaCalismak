@@ -1,1 +1,1 @@
-- Patika+ first exercise on table structures
+- Patika+ week-1 exercise-1 on table structures
